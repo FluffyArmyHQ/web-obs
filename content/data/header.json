@@ -47,7 +47,7 @@
             "altText": "Twitter",
             "url": "/",
             "showIcon": true,
-            "icon": "twitter",
+            "icon": "",
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
